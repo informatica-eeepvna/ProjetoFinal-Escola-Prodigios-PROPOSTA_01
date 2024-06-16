@@ -57,7 +57,7 @@ A "Escola Prodígios" oferece uma variedade de serviços educacionais, incluindo
 * **Bootstrap**: Framework de front-end que agiliza o processo de desenvolvimento, fornecendo componentes pré-estilizados e um sistema de grid responsivo.
 
 ## Links Importantes
-* **Site em Funcionamento**: [Link para o site](https://informatica-eeepvna.github.io/ProjetoFinal-Escola-Prodigios-PROPOSTA_01/)
+* **Site em Funcionamento**: [Link para o site](https://splitfull.github.io/Escola-Prodigios/)
 * **Identidade Visual Completa**: [Link para o Drive](https://drive.google.com/drive/folders/1iSXnlLYDsBbioVHwJWIZlwbFe8Dust7s) 
 * 2°(https://drive.google.com/drive/folders/18PvkM_7_tANxPar41wBkxw6PreC5G5nd)
 
